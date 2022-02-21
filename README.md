@@ -4,13 +4,25 @@
 
 # :building_construction: **EM CONSTRUÇÃO**
 
-## Introdução
-
 <!---
-**falar sobre o contexto da monografia**
+    Adicionar imagens dos quatro tipos de usinas em questão
+-->
 
-**falar sobre a Teoria das Opções Reais (TOR)**
---->
+## Contexto e a TOR
+
+A monografia se propõe a estudar a viabilidade de usinas elétricas movidas por combustíveis fósseis e por fontes renováveis. Considerando combustíveis fósseis são abordadas usinas movidas por carvão mineral e gás natural. Por parte das fontes renováveis, considera-se usinas eólicas on-shore e usinas solares fotovoltaicas.
+
+As motivações por trás desse estudo são diversas. A mudança climática tendo sido cada vez mais levada em consideração na tomada de decisão de investimentos públicos e privados, de modo que os efeitos ambientais passam a ser incorporados com maior importância durante a avaliação de projetos. 
+
+Outro ponto relevante é a volatilidade dos preços dos combustíveis, isto é, a variação sob a qual a produção de energia elétrica está sujeita quando utiliza-se combustíveis fósseis nessa atividade. Ainda que no Brasil cerca de 65% da produção de energia elétrica seja proveniente de usinas hidrelétricas, momentos de pouca chuva diminuem a produção em usinas desse tipo e obrigam a operação de usinas movidas por combustíveis fósseis.
+
+A volatilidade dos preços é importante para a avaliação do projeto da construção e operação de uma usina. Em períodos de preços baixos, o projeto pode ser viável; enquanto sob preços mais altos, esse pode não ser o caso. Para incluir a incerteza na avaliação do projeto, utiliza-se aqui a Teoria das Opções Reais (TOR).
+
+A ideia da TOR é similar ao modelo de precificação Black-Scholes de ativos financeiros, no entanto na TOR consideramos ativos físicos como uma usina de energia elétrica. De forma breve, essa teoria utiliza diversos parâmetros relacionados ao projeto como investimento inicial, custos de operação e preço da produto (energia elétrica) para avaliar a viabilidade de um projeto a partir de uma relação preço-custo. 
+
+Um exemplo dessa relação seria o preço da energia elétrica e os custos de operação de uma usina termoelétrica movida a gás natural. A todo tempo, essa relação varia devido a mudanças nos preços da energia e do gás. Um modelo que utiliza a Teoria das Opções Reais incorpora essas variações na avaliação do investimento e indica um valor mínimo dessa relação para que o investimento seja viável.
+
+A monografia integral está disponível no repositório.
 
 ### Conteúdo do repositório
 
